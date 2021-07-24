@@ -1,4 +1,4 @@
-rien-doll's minimal-ui mod converted to "4k" resolution.
+# rien-doll's minimal-ui mod converted to "4k" resolution.
 
 It's mostly working, some textures are off-color, others are "broken" because SE updated/changed the textures (i.e. Warrior Job Gauge).
 
