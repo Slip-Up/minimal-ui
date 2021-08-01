@@ -1,6 +1,6 @@
 # rien-doll's minimal-ui mod converted to "4k" resolution.
 
-Circle buff icons has not been converted, but most other "options" have.
+Circle buff icons have not been converted, but most other "options" have.
 
 
 
