@@ -1,7 +1,6 @@
 # rien-doll's minimal-ui mod converted to "4k" resolution.
 
-It's mostly working, some textures are off-color, others are "broken" because SE updated/changed the textures (i.e. Warrior Job Gauge).
-Circle buff icons has not been converted, but most other "options" have.
+Circle buff icons have not been converted, but most other "options" have.
 
 
 
