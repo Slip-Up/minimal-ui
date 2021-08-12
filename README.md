@@ -6,11 +6,11 @@ Circle buff icons have not been converted, but most other "options" have.
 ![1](https://github.com/Slip-Up/minimal-ui/blob/master/Minimal%20UI%204k.jpg?raw=true)
 
 
-!Glow Job Icons
+## Glow Job Icons
 ![2](https://github.com/Slip-Up/minimal-ui/blob/master/Glow%20Job%20Icons.jpg?raw=true)
 
 
-!Monochrome Menu Icons
+## Monochrome Menu Icons
 ![1](https://github.com/Slip-Up/minimal-ui/blob/master/Monochrome%20Menu%20Icons.jpg?raw=true)
 
 
