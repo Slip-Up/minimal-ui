@@ -24,7 +24,7 @@ Circle Status Icons is a mod for FFXIV that changes (most) DoW/DoM beneficial st
 I will no longer be able to update the mod for the forseeable future, but it should remain functional for the rest of the expansion, if not further. I have reached the point of satisfaction with the design awhile ago, and very few textures get changed per patch. I have uploaded all of the raw textures used [here](https://github.com/rien-doll/minimal-ui/tree/master/textures) and you may feel free to fork the project or use them for any personal use. If you would prefer an alternative skin originally based on my work, but further expanded with many more options, you can try SKOTLEX's [Material UI](https://github.com/skotlex/ffxiv-material-ui). 
 
 ## Preview
-![a](Minimal UI 4k.png)
+![a]("Minimal UI 4k.png")
 
 ## Installing the mod
 
