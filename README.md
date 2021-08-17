@@ -14,6 +14,13 @@ Circle buff icons have not been converted, but most other "options" have.
 ![1](https://github.com/Slip-Up/minimal-ui/blob/master/Monochrome%20Menu%20Icons.jpg?raw=true)
 
 
+## Partylist Shield Colors
+![1](https://github.com/Slip-Up/minimal-ui/blob/master/Partylist%20Shield%20Colors.png?raw=true)
+
+
+## Combo Line Colors
+![1](https://github.com/Slip-Up/minimal-ui/blob/master/Combo%20Line%20Colors.png?raw=true)
+
 
 
 
