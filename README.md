@@ -2,7 +2,6 @@
 
 12/08/24: some minor icon updates for DT. Most else left untouched.
 
-Circle buff icons have not been converted, but most other "options" have.
 
 ## Preview
 ![1](https://github.com/Slip-Up/minimal-ui/blob/master/Minimal%20UI%204k.jpg?raw=true)
