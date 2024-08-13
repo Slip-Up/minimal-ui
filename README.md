@@ -1,4 +1,6 @@
-# rien-doll's minimal-ui mod converted to "4k" resolution.
+# rien-doll's minimal-ui mod updated for Dawntrail
+
+12/08/24: some minor icon updates for DT. Most else left untouched.
 
 Circle buff icons have not been converted, but most other "options" have.
 
